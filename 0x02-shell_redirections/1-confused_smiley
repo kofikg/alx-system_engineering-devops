@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Confused,Smiley'
+cat file_1
