@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BEATH**POWER))
+echo $((BEATH**LOVE))
